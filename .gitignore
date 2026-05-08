@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg-info/
+*.egg
+.Python
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+pyvenv.cfg
+
+# macOS
+.DS_Store
+
+# Data, outputs, artifacts
+outputs/
+*.mp4
+*.csv
+*.html
+*.json
+*.log
+
+# Models / weights
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.mp4
